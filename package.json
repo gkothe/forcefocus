@@ -1,5 +1,5 @@
 {
-  "name": "forcefocus",
+  "name": "@adeperio/forcefocus",
   "version": "1.0.0",
   "description": "Node module that allows you to steal focus from other windows in Windows.",
   "main": "lib/forcefocus.js",
