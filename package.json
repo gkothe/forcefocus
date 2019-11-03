@@ -7,7 +7,7 @@
   "gypfile": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/robinwassen/forcefocus.git"
+    "url": "git://github.com/adeperio/forcefocus.git"
   },
   "keywords": [
     "window",
