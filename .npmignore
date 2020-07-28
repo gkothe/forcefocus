@@ -1,7 +1,3 @@
-bin
-build
-docs
-example
-prebuilds
-scripts
-media
+.DS_Store
+/build
+/node_modules
