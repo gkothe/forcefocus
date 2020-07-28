@@ -7,7 +7,7 @@ Microsoft changed the implementation of [SetFocus()](https://msdn.microsoft.com/
 
 This module circumvents the restrictions in SetFocus() and allows any window to steal the focus.
 
-It reuses the Electron's built-in focus on other platforms.
+It reuses the Electron's built-in `focus()` on other platforms.
 
 Installation
 ------------
