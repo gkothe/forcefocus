@@ -18,7 +18,7 @@ Install `forcefocus` by running:
 $ npm install --save @sbspk/forcefocus
 ```
 
-Native binaries for win, mac and linux are built when the module is installed.
+Native binaries for Windows, macOS and Linux are built when the module is installed.
 
 Documentation
 -------------
