@@ -1,5 +1,5 @@
 {
-  "name": "@subash/forcefocus",
+  "name": "@sbspk/forcefocus",
   "version": "2.0.0",
   "description": "Node module that allows you to steal focus from other windows in Windows.",
   "main": "lib/forcefocus.js",
