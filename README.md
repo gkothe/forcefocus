@@ -20,10 +20,9 @@ $ npm install --save @sbspk/forcefocus
 
 Native binaries for Windows, macOS and Linux are built when the module is installed.
 
-Documentation
+Usage
 -------------
 
-**Example**  
 ```js
 const forceFocus = require('forcefocus');
 const currentWindow = require('electron').remote.getCurrentWindow();
