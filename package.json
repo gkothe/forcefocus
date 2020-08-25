@@ -3,6 +3,7 @@
   "version": "2.0.1",
   "description": "Node module that allows you to steal focus from other windows in Windows.",
   "main": "lib/forcefocus.js",
+   "gypfile": false,
   "homepage": "https://github.com/subash/forcefocus",
   "repository": {
     "type": "git",
