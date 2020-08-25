@@ -22,6 +22,8 @@
   "author": "Subash Pathak <subash@subash.me>",
   "license": "Apache-2.0",
   "dependencies": {
-    "bindings": "^1.5.0"
+    "bindings": "^1.5.0",
+    "node-gyp": "^6.0.1",
+    "node-pre-gyp": "^0.14.0"
   }
 }
